@@ -1,0 +1,4 @@
+numpy>=1.19.0
+pyopencl>=2021.1.0
+matplotlib>=3.3.0
+Pillow>=8.0.0
